@@ -1,0 +1,13 @@
+/*!
+Bootstrap4 - Livro de Natan Souza mais em: https://github.com/designernatan
+@author: Thiago Brito
+@e-mail: brito.thiago01@gmail.com
+ */
+
+ .jumbotron{
+	background-image: url(../img/vitrine.jpg);
+	background-size: cover;
+	background-position: center;
+	color: #fff; 
+ }
+
