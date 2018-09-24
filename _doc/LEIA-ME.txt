@@ -1,0 +1,31 @@
+﻿***
+* Attention!
+* This and all other files in this project were written in Portuguese
+* as the standard language of human understanding. So most, but not all the comments, functions and attributes
+* follow this language for their nomenclatures.
+* Therefore, the all files have been configured as UTF8 encoding due to language support.
+* If you have any questions, please contact: brito.thiago01@gmail.com
+***
+
+Sobre:
+Este é um projeto de aplicação Web para implementação da tecnologia Bootstrap4.
+
+
+
+Expecificações Tecnicas: 
+Esta é a implementação do conteúdo do livro 'Bootstrap4 - Natan Souza' todos os direitros reservados
+ao escritor e publicadora do material. 
+
+
+° Git:
+Para realizar o controle de versão e garantir correções ou 
+aprimoramentos sustentável e colaborativo.
+
+° HTML5:
+Webpage e estrutura de conteúdo a virtude de exemplo.
+
+° Bootstrap4: 
+Implementação dos conseitos de usabilidade e boas praticas para desenvolvimento web.
+
+
+##############################################################################
