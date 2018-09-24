@@ -9,6 +9,7 @@
 
 Sobre:
 Este é um projeto de aplicação Web para implementação da tecnologia Bootstrap4.
+Cheque o arquivo wireframe-home.png para ver o escopo do projeto.
 
 
 
