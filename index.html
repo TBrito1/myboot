@@ -12,18 +12,44 @@ Bootstrap4 - Livro de Natan Souza
 	<title>Better - Distribuição de fotos</title>
 </head>
 <body>
-	<div class="container">
-	<!-- inicio do menu -->
-	<nav class ="navbar navbar-expand-lg navbar-light bg-light">
-		<ul class="navbar-nav mr-auto">
-			<li><a class="nav-link" href="#">Better</a></li>
-			<li><a class="nav-link" href="#">Descubra</a></li>
-			<li><a class="nav-link" href="#">Preços</a></li>
-			<li><a class="nav-link" href="#">Cadatre-se</a></li>
-			<li><a class="nav-link" href="#">Login</a></li>
-		</ul>
+	<nav class ="navbar navbar-expand-sm navbar-light bg-light"><!-- inicio do menu -->
+		<a class="nav-brand" href="#">Better</a>
+		<button class="navbar-toggler" data-toggle="collapse" data-target="#navbarSupportedContent">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="container">
+			<div class="collapse navbar-navbar-collapse" id="navbarSupportedContent"><!--collapse menu-->
+				<ul class="navbar-nav mr-auto">
+					<li class="dropdown dropdown-divider"></li><!--divisao de submenu:estetico apenas-->
+						<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Descubra</a>
+						<ul class="dropdown-menu">
+							<li><a class="dropdown-item" href="#">Paisagem</a></li>
+							<li><a class="dropdown-item" href="#">Tecnologia</a></li>
+							<li><a class="dropdown-item" href="#">Abstrato</a></li>
+							<li class="dropdown dropdown-divider"></li>
+							<li><a class="dropdown-item" href="#">Animais</a></li>
+							<li><a class="dropdown-item" href="#">Comida</a></li>
+							<li><a class="dropdown-item" href="#">Pessoas</a></li>
+						</ul>
+					</li>
+					<li><a class="nav-link" href="#">Preços</a></li>
+					<li><a class="nav-link" href="#">Cadatre-se</a></li>
+					<li><a class="nav-link" href="#">Login</a></li>
+				</ul>
+			</div><!--fim collapse menu-->
+		</div>
 	</nav><!-- fim do menu-->
-	</div>
 	
+	
+	
+	
+	
+	
+	
+	
+	<!--Area de Scripts-->
+	<script src="js/jquery.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<!--Fim Area de Scripts-->
 </body>
 </html>
