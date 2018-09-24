@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+.dropdown-item{
+	color: whitesmoke;
+}
+
+.jumbotron {
+	background-image:url(../img/arte-miniatura-inicial.png);
+	padding: 1rem 2rem;
+	min-height: 440px;
+}
+.foto{
+	width: 95%;
+	min-height: 200px;
+	background-color: aquamarine;
+}
