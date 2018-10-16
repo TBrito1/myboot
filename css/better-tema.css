@@ -11,3 +11,26 @@ Bootstrap4 - Livro de Natan Souza mais em: https://github.com/designernatan
 	color: #fff; 
  }
 
+.social li{
+	display: inline-block;
+	margin-left: 1em;
+}
+ 
+.social a{
+	display: block;
+	width: 36px;
+	height: 36px;
+	text-indent: -9999px;
+}
+.social a[href="facebook"]{
+	background: url(../img/icone-face.png);
+	background-size: 36px 36px;
+}
+.social a[href="instagram"]{
+	background: url(../img/icone-insta.png);
+	background-size: 36px 36px;
+}
+.social a[href="twitter"]{
+	background: url(../img/icone-twitter.png);
+	background-size: 36px 36px;
+}
