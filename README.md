@@ -1,6 +1,6 @@
 ***
 * Attention!
-* This and all other files in this project were written in Portuguese
+* With the exception of this file all others in this project were written in Portuguese
 * as the standard language of human understanding. So most, but not all the comments, functions and attributes
 * follow this language for their nomenclatures.
 * Therefore, all files have been configured as UTF8 encoding due to language support.

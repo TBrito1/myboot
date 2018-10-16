@@ -7,15 +7,19 @@
 * If you have any questions, please contact: brito.thiago01@gmail.com
 ***
 
-Sobre:
-Este é um projeto de aplicação Web para implementação da tecnologia Bootstrap4.
-Cheque o arquivo wireframe-home.png para ver o escopo do projeto.
+	Sobre:
+Este é um projeto de aplicação Web para implementação e teste da tecnologia Bootstrap v4.
+O intuito é aplicar e testar as novas classes e conhecer melhor os recursos da ferramenta.
+Todo projeto foi pensado e primeiramente desenvolvido por Natan Souza em seu Livro 'Bootstrap4'
+e implementado por mim Thiago Brito para fins de estudo pessoal.
+Para a visão geral do escopo cheque o arquivo 'wireframe-home.png' para ver o escopo do projeto.
 
 
 
-Expecificações Tecnicas: 
+	Expecificações Tecnicas e Tecnologias utilizadas:
+Nesta solução foram aplicadas as seguintes diretrizes técnicas, práticas e lógicas para melhor uso das teclogías abaixo.
 Esta é a implementação do conteúdo do livro 'Bootstrap4 - Natan Souza' todos os direitros reservados
-ao escritor e publicadora do material. 
+ao escritor e publicadora do material.
 
 
 ° Git:
@@ -23,10 +27,18 @@ Para realizar o controle de versão e garantir correções ou
 aprimoramentos sustentável e colaborativo.
 
 ° HTML5:
-Webpage e estrutura de conteúdo a virtude de exemplo.
+Foi aplicado as tags e sintaxe HTML5 no arquivo 'index.html' que emprega o papel de fazer a interface com usuário.
+O arquivo 'index.html' segue os parametros estruturais e visuais expecificados em 'wireframe-home.png'.
 
-° Bootstrap4: 
-Implementação dos conseitos de usabilidade e boas praticas para desenvolvimento web.
+° Bootstrap4:
+A fim de estilizar e apresentar uma interface compatível com os atuais padrões de UX-UI utilizamos este framework para
+implementação para agilizar o desenvolvimento web.
+Não foi feita nenhuma alteração ou personalização dos compontes do framework, suas classes estaão disponiveis nos diretórios 
+'css' e 'js'.
 
+° CSS3:
+Dentro de 'css' contém um arquivo 'better-tema.css' com marcações simples e de fácil compreensão para dar uma cara mais amigável a página.
+Neste arquivo existe refências externa para a imagens que estão disponíveis no diretório 'img'.
+Importante informar que todo o arquivo foi validado e aprovado pelo crivo de conformidade em tecnologia CSS3 da WW3.
 
 ##############################################################################
